@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+ * Desafio: Nível Novato - Cadastrando as Cartas do Super Trunfo
+ * 
+ * O objetivo desse desafio é construir a base do jogo Super Trunfo de Países.
+ * Criar um sistema para o usuário cadastrar as cartas com informações sobre as cidades.
+ * Praticar a leitura de dados do usuário, o armazenamento em variáveis e a exibição dessas informações na tela.
+ */
+
 int main() {
     // Variáveis para a Carta 1
     char estado1;
